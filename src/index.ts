@@ -1,4 +1,9 @@
-
+//INPUT USER 
+const user = {
+    firstName: "Angela",
+    lastName: "Davis",
+    role: "Professor",
+  }
 //get user info//
 interface User {
     id: number
