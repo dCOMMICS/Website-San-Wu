@@ -18,3 +18,11 @@ interface User {
     saveUser(id, newUser)
   }
    
+
+  // exer 01
+
+  export const addTwoNumbers = (a, b) => {
+    return a + b;
+  };
+
+  
